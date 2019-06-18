@@ -12,6 +12,7 @@ while
 reduce
 """
 
+
 def checkio(data):
     if len(data) == 0:
         return 0
